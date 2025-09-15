@@ -2,6 +2,7 @@
 Project 1: Solving a Maze
 Gabriela Carbajal Ortiz
 007715715
+https://github.com/carbajalor-creator/Maze.git
 
 
 Collaboration & Sources
